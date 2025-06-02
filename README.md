@@ -1,7 +1,7 @@
-## Hi there, I'm Charliane 👋
+## Hi there, Charliane here 👋
 
 
-# 💫 About Me:
+# 💫Who I am:
 "I am a software engineer who graduated in June 2024 from the Web and Mobile Application Development program at NBCC, New Brunswick, Canada. <br>My background is in network specialization, but I decided to broaden my skill set by learning programming. <br>This decision came after working alongside a development team on RPA project at a notable service provider. <br>I'm passionate about technology and how it can be used to solve real-world problems. In my spare time I enjoy cooking. 
 
 
